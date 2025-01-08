@@ -1,4 +1,4 @@
-package Utility;
+package SchoolMatchGame;
 
 public class CC {
     public static final String RESET = "\u001B[0m";

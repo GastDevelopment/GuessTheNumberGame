@@ -1,8 +1,8 @@
-package Utility;
+package SchoolMatchGame;
 
 import java.util.*;
 
-import static Utility.CC.*;
+import static SchoolMatchGame.CC.*;
 
 public class MatchManager {
 

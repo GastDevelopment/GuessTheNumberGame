@@ -1,9 +1,9 @@
-package Utility;
+package SchoolMatchGame;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import static Utility.CC.*;
+import static SchoolMatchGame.CC.*;
 
 public class Check {
 
